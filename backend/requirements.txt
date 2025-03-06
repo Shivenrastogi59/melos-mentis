@@ -1,0 +1,13 @@
+Flask
+opencv-python 
+numpy 
+pandas 
+torch 
+torchvision 
+scikit-learn 
+tensorflow 
+keras 
+mediapipe 
+librosa 
+matplotlib 
+flask-cors
